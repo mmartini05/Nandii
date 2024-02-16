@@ -1,2 +1,4 @@
 # Nandii
 First Wii portable
+BitBuilt Profile: https://bitbuilt.net/forums/index.php?members/nand512.4551/
+Buildlog:
